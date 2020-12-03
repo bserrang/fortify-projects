@@ -1,0 +1,16 @@
+.vscode
+node_modules
+out
+docs
+dist/*.map.js
+
+.DS_Store
+*.log
+
+.idea
+
+# Development
+.npmrc
+modules_list.js
+modules.json
+tsconfig.tsbuildinfo

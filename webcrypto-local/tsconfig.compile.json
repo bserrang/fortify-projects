@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "ES2018",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  }
+}
